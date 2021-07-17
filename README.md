@@ -1,2 +1,1 @@
-# basic-banking-system-the-sparks-foundation
-#sparksfoundation #task1 A Web application used to transfer money between  multiple users(contains 10 dummy users).A dummy user can also be created  Stack used - [Front-end:HTML,CSS,Bootstrap &amp; Javascript] [Backend: PHP, Database:MySQL] Database contains two tables - User Table &amp; Transaction Table 1. User table contains basic fields such as name,email &amp; balance 2. History table records all transfers happened along with their time  Flow of the Website : Home Page > View Users > Transfer Credits > Select sender > Transfer Amount>View Transaction History.
+# Banking-sytem
