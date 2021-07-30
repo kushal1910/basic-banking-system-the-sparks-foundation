@@ -1,4 +1,4 @@
 # Banking-sytem
 
 
-[click here to see the webpage] (https://kushal1910.github.io/basic-banking-system-the-sparks-foundation/)
+[click here to see the webpage](https://github.com/kushal1910/basic-banking-system-the-sparks-foundation/blob/main/index.php)
